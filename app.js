@@ -1,5 +1,93 @@
-(() => {
-const D = window.DASHBOARD_DATA;
+(async () => {
+    function parseCSV(text) {
+        const rows = [];
+        let row = [], field = "", quoted = false;
+
+        for (let i = 0; i < text.length; i++) {
+            const ch = text[i], next = text[i + 1];
+
+            if (quoted) {
+                if (ch === '"' && next === '"') {
+                    field += '"';
+                    i++;
+                } else if (ch === '"') {
+                    quoted = false;
+                } else {
+                    field += ch;
+                }
+            } else {
+                if (ch === '"') quoted = true;
+                else if (ch === ',') {
+                    row.push(field);
+                    field = "";
+                } else if (ch === '\n') {
+                    row.push(field);
+                    rows.push(row);
+                    row = [];
+                    field = "";
+                } else if (ch !== '\r') {
+                    field += ch;
+                }
+            }
+        }
+
+        if (field || row.length) {
+            row.push(field);
+            rows.push(row);
+        }
+
+        const headers = rows.shift().map((h, i) =>
+            i === 0 ? h.replace(/^\uFEFF/, "").trim() : h.trim()
+        );
+
+        return rows.filter(r => r.some(v => v.trim()))
+            .map(r => Object.fromEntries(
+                headers.map((h, i) => [h, (r[i] || "").trim()])
+            ));
+    }
+
+    async function loadCSV(file, dateColumn) {
+        const response = await fetch(file);
+
+        if (!response.ok) {
+            throw new Error("Unable to load " + file);
+        }
+
+        const records = parseCSV(await response.text());
+
+        if (dateColumn) {
+            records.forEach(r => {
+                const match = r[dateColumn]?.match(
+                    /^(\d{1,2})-([A-Za-z]{3})-(\d{4})$/
+                );
+
+                if (match) {
+                    const months = {
+                        Jan:"01", Feb:"02", Mar:"03",
+                        Apr:"04", May:"05", Jun:"06",
+                        Jul:"07", Aug:"08", Sep:"09",
+                        Oct:"10", Nov:"11", Dec:"12"
+                    };
+
+                    r[dateColumn] =
+                        `${match[3]}-${months[match[2]]}-${match[1].padStart(2,"0")}`;
+                }
+            });
+        }
+
+        return records;
+    }
+
+    const [sales, products, expenses, purchases, vendors] =
+        await Promise.all([
+            loadCSV("sales.csv", "Date"),
+            loadCSV("products.csv"),
+            loadCSV("expenses.csv", "Date"),
+            loadCSV("purchases.csv", "Purchase Date"),
+            loadCSV("Vendors.csv")
+        ]);
+
+    const D = { sales, products, expenses, purchases, vendors };
 const $ = id => document.getElementById(id);
 const fmt = n => new Intl.NumberFormat('en-IN',{style:'currency',currency:'INR',maximumFractionDigits:0}).format(Number(n)||0);
 const num = n => Number(n)||0;
