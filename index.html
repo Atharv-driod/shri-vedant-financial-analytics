@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shri Vedant Pooja Bhandar | Financial Analytics Dashboard</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">RETAIL FINANCIAL ANALYTICS • 2026</p>
+      <h1>Shri Vedant Pooja Bhandar</h1>
+      <p class="subhead">Sales, profitability, inventory, procurement and expense performance</p>
+    </div>
+    <div class="controls">
+      <label for="monthFilter">Reporting month</label>
+      <select id="monthFilter"><option value="all">All months</option></select>
+      <button id="resetFilter" class="reset-btn">Reset</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="kpi-grid" id="kpiGrid">
+      <article class="kpi"><span>Total Revenue</span><strong id="kpiRevenue">—</strong><small>Recorded sales revenue</small></article>
+      <article class="kpi"><span>Gross Profit</span><strong id="kpiGross">—</strong><small>Revenue less cost of goods sold</small></article>
+      <article class="kpi"><span>Gross Margin</span><strong id="kpiGrossMargin">—</strong><small>Gross profit / revenue</small></article>
+      <article class="kpi"><span>Operating Profit</span><strong id="kpiOperating">—</strong><small>Gross profit less recorded expenses</small></article>
+      <article class="kpi"><span>Total Expenses</span><strong id="kpiExpenses">—</strong><small>Operating expense records</small></article>
+      <article class="kpi"><span>Inventory Value</span><strong id="kpiInventory">—</strong><small>Product master valuation</small></article>
+    </section>
+
+    <section class="insight-banner" id="profitNote"></section>
+
+    <section class="chart-grid">
+      <article class="panel wide">
+        <div class="panel-heading"><div><h2>Monthly Financial Trend</h2><p>Revenue, gross profit and expenses</p></div></div>
+        <canvas id="monthlyChart" height="280"></canvas>
+      </article>
+      <article class="panel">
+        <div class="panel-heading"><div><h2>Revenue by Category</h2><p>Share of recorded sales</p></div></div>
+        <canvas id="categoryChart" height="260"></canvas>
+        <div id="categoryLegend" class="legend"></div>
+      </article>
+      <article class="panel">
+        <div class="panel-heading"><div><h2>Sales by Payment Mode</h2><p>Revenue split</p></div></div>
+        <canvas id="paymentChart" height="260"></canvas>
+      </article>
+      <article class="panel">
+        <div class="panel-heading"><div><h2>Expense Categories</h2><p>Recorded operating expenses</p></div></div>
+        <canvas id="expenseChart" height="260"></canvas>
+      </article>
+      <article class="panel">
+        <div class="panel-heading"><div><h2>Top 5 Products by Gross Profit</h2><p>Product-level contribution</p></div></div>
+        <canvas id="productChart" height="260"></canvas>
+      </article>
+    </section>
+
+    <section class="table-grid">
+      <article class="panel">
+        <div class="panel-heading"><div><h2>Product Profitability</h2><p>Ranked by gross profit</p></div></div>
+        <div class="table-wrap"><table><thead><tr><th>Product</th><th>Revenue</th><th>Gross profit</th><th>Margin</th></tr></thead><tbody id="profitTable"></tbody></table></div>
+      </article>
+      <article class="panel">
+        <div class="panel-heading"><div><h2>Inventory Watchlist</h2><p>Current stock position from product master</p></div></div>
+        <div class="table-wrap"><table><thead><tr><th>Product</th><th>Closing stock</th><th>Inventory value</th><th>Status</th></tr></thead><tbody id="stockTable"></tbody></table></div>
+      </article>
+      <article class="panel">
+        <div class="panel-heading"><div><h2>Vendor Purchase Summary</h2><p>Purchase value by supplier</p></div></div>
+        <div class="table-wrap"><table><thead><tr><th>Vendor</th><th>Purchase value</th><th>Units</th></tr></thead><tbody id="vendorTable"></tbody></table></div>
+      </article>
+      <article class="panel">
+        <div class="panel-heading"><div><h2>Expense Summary</h2><p>Category-wise expenditure</p></div></div>
+        <div class="table-wrap"><table><thead><tr><th>Category</th><th>Amount</th><th>Share</th></tr></thead><tbody id="expenseTable"></tbody></table></div>
+      </article>
+    </section>
+
+    <section class="method-note">
+      <h2>Definitions & interpretation</h2>
+      <p><b>Gross profit</b> = sales revenue − cost of goods sold (COGS). <b>Operating profit</b> in this project is calculated as gross profit − expenses recorded in the EXPENSES file. It is a simplified operating result based on the supplied dataset, not audited statutory profit.</p>
+      <p><b>Inventory value</b> is taken from the PRODUCTS file. Inventory and vendor/purchase metrics are current dataset summaries and are not changed by the sales-month filter. Monthly expense comparisons use the expense dates in the supplied file.</p>
+      <p id="dataQuality"></p>
+    </section>
+    <footer>Built from the supplied Excel-exported CSV datasets • Shri Vedant Pooja Bhandar • 2026</footer>
+  </main>
+  <script src="data/data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

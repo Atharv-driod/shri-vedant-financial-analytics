@@ -1,0 +1,21 @@
+﻿Product ID,Product Name,Category,Selling Price (₹),Purchase Cost (₹),Opening Stock (Units),Total Purchased,Total Sold,Closing Stock,Inventory Value (₹),Stock Status
+P001,Brass Diya,Brass & Copper,180,110,35,43,10,68,7480,Adequate Stock
+P002,Copper Kalash,Brass & Copper,650,420,12,59,12,59,24780,Adequate Stock
+P003,Pooja Thali,Pooja Samagri,350,210,20,10,22,8,1680,Low Stock
+P004,Agarbatti Pack,Pooja Samagri,35,18,120,125,34,211,3798,Adequate Stock
+P005,Kumkum Pack,Pooja Samagri,25,12,150,129,26,253,3036,Adequate Stock
+P006,Cotton Pancha,Textiles,280,170,45,21,13,53,9010,Adequate Stock
+P007,Reshmi Madi,Textiles,950,620,15,12,12,15,9300,Adequate Stock
+P008,Pure Cotton Dhotra,Textiles,700,450,18,98,33,83,37350,Adequate Stock
+P009,German Silver Bowl,German Silver,220,130,40,12,24,28,3640,Adequate Stock
+P010,German Silver Return Gift Set,German Silver,550,340,22,65,22,65,22100,Adequate Stock
+P011,Lungi,Textiles,320,190,30,126,27,129,24510,Adequate Stock
+P012,Premium Saree,Textiles,1800,1250,8,85,9,84,105000,Adequate Stock
+P013,Camphor Box,Pooja Samagri,60,32,80,65,25,120,3840,Adequate Stock
+P014,Brass Bell,Brass & Copper,260,155,25,80,21,84,13020,Adequate Stock
+P015,Oil Lamp Wick Pack,Pooja Samagri,20,9,200,110,21,289,2601,Adequate Stock
+P016,Copper Panchapatra,Brass & Copper,420,270,16,80,23,73,19710,Adequate Stock
+P017,Rudraksha Mala,Pooja Samagri,150,85,30,24,28,26,2210,Adequate Stock
+P018,Decorative Toran,Pooja Samagri,190,105,28,145,24,149,15645,Adequate Stock
+P019,Cotton Towel,Textiles,140,80,50,109,26,133,10640,Adequate Stock
+P020,Silver-Plated Plate,German Silver,480,290,18,139,20,137,39730,Adequate Stock

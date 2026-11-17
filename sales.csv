@@ -1,0 +1,181 @@
+﻿Sales ID,Date,Customer ID,Product ID,Product Name,Category,Quantity,Unit Selling Price (₹),Discount %,Payment Mode,Total Revenue,Total Sales,BUSINESS PERFORMANCE SUMMARY,Column1,Unit Purchase Cost,Total Cost (COGS),Gross Profit,Gross Profit Margin (%)
+S0084,01-Jan-2026,C039,P010,German Silver Return Gift Set,German Silver,1,550,5,Card,522.5,,,,340,340,182.5,35%
+S0163,01-Jan-2026,C034,P018,Decorative Toran,Pooja Samagri,2,190,0,Cash,380,,Total Sales Revenue," ₹ 1,33,537.00 ",105,210,170,45%
+S0063,02-Jan-2026,C048,P011,Lungi,Textiles,3,320,0,Cash,960,,Total Units Sold,432,190,570,390,41%
+S0005,04-Jan-2026,C010,P006,Cotton Pancha,Textiles,3,280,0,UPI,840,,Total Sales Transactions,180,170,510,330,39%
+S0072,20-Jan-2026,C020,P016,Copper Panchapatra,Brass & Copper,1,420,5,UPI,399,,Average Revenue Per Transaction, ₹ 741.87 ,270,270,129,32%
+S0052,21-Jan-2026,C034,P020,Silver-Plated Plate,German Silver,1,480,10,Card,432,,,,290,290,142,33%
+S0067,21-Jan-2026,C007,P012,Premium Saree,Textiles,1,1800,0,Card,1800,,,,1250,1250,550,31%
+S0155,21-Jan-2026,C002,P014,Brass Bell,Brass & Copper,3,260,10,UPI,702,,,,155,465,237,34%
+S0079,23-Jan-2026,C047,P014,Brass Bell,Brass & Copper,1,260,10,Card,234,,,,155,155,79,34%
+S0088,24-Jan-2026,C030,P008,Pure Cotton Dhotra,Textiles,6,700,10,Cash,3780,,,,450,2700,1080,29%
+S0035,31-Jan-2026,C005,P008,Pure Cotton Dhotra,Textiles,1,700,0,UPI,700,,,,450,450,250,36%
+S0010,05-Feb-2026,C055,P002,Copper Kalash,Brass & Copper,3,650,0,Cash,1950,,,,420,1260,690,35%
+S0057,05-Feb-2026,C054,P008,Pure Cotton Dhotra,Textiles,2,700,0,UPI,1400,,,,450,900,500,36%
+S0013,06-Feb-2026,C016,P020,Silver-Plated Plate,German Silver,3,480,10,Card,1296,,,,290,870,426,33%
+S0055,07-Feb-2026,C005,P001,Brass Diya,Brass & Copper,2,180,10,Cash,324,,,,110,220,104,32%
+S0065,08-Feb-2026,C036,P005,Kumkum Pack,Pooja Samagri,2,25,0,Card,50,,,,12,24,26,52%
+S0111,11-Feb-2026,C023,P016,Copper Panchapatra,Brass & Copper,1,420,10,Cash,378,,,,270,270,108,29%
+S0029,13-Feb-2026,C009,P016,Copper Panchapatra,Brass & Copper,4,420,10,Cash,1512,,,,270,1080,432,29%
+S0156,16-Feb-2026,C002,P008,Pure Cotton Dhotra,Textiles,6,700,10,Card,3780,,,,450,2700,1080,29%
+S0003,17-Feb-2026,C036,P007,Reshmi Madi,Textiles,1,950,10,Cash,855,,,,620,620,235,27%
+S0040,20-Feb-2026,C016,P002,Copper Kalash,Brass & Copper,2,650,0,Cash,1300,,,,420,840,460,35%
+S0146,20-Feb-2026,C006,P007,Reshmi Madi,Textiles,3,950,0,Card,2850,,,,620,1860,990,35%
+S0002,22-Feb-2026,C002,P018,Decorative Toran,Pooja Samagri,1,190,5,Cash,180.5,,,,105,105,75.5,42%
+S0160,23-Feb-2026,C043,P006,Cotton Pancha,Textiles,1,280,5,UPI,266,,,,170,170,96,36%
+S0116,25-Feb-2026,C044,P019,Cotton Towel,Textiles,1,140,0,Card,140,,,,80,80,60,43%
+S0001,27-Feb-2026,C009,P001,Brass Diya,Brass & Copper,3,180,0,Cash,540,,,,110,330,210,39%
+S0023,28-Feb-2026,C019,P018,Decorative Toran,Pooja Samagri,3,190,0,Cash,570,,,,105,315,255,45%
+S0114,28-Feb-2026,C017,P019,Cotton Towel,Textiles,5,140,5,Card,665,,,,80,400,265,40%
+S0060,01-Mar-2026,C019,P004,Agarbatti Pack,Pooja Samagri,3,35,0,UPI,105,,,,18,54,51,49%
+S0076,01-Mar-2026,C007,P009,German Silver Bowl,German Silver,1,220,0,Cash,220,,,,130,130,90,41%
+S0119,03-Mar-2026,C028,P019,Cotton Towel,Textiles,4,140,0,Card,560,,,,80,320,240,43%
+S0081,05-Mar-2026,C026,P010,German Silver Return Gift Set,German Silver,2,550,5,UPI,1045,,,,340,680,365,35%
+S0138,06-Mar-2026,C019,P009,German Silver Bowl,German Silver,1,220,0,Card,220,,,,130,130,90,41%
+S0139,06-Mar-2026,C019,P016,Copper Panchapatra,Brass & Copper,1,420,0,Card,420,,,,270,270,150,36%
+S0179,06-Mar-2026,C056,P017,Rudraksha Mala,Pooja Samagri,6,150,0,Cash,900,,,,85,510,390,43%
+S0037,09-Mar-2026,C052,P019,Cotton Towel,Textiles,2,140,0,UPI,280,,,,80,160,120,43%
+S0172,11-Mar-2026,C060,P003,Pooja Thali,Pooja Samagri,1,350,5,UPI,332.5,,,,210,210,122.5,37%
+S0020,12-Mar-2026,C010,P017,Rudraksha Mala,Pooja Samagri,2,150,0,Cash,300,,,,85,170,130,43%
+S0018,13-Mar-2026,C048,P008,Pure Cotton Dhotra,Textiles,3,700,10,UPI,1890,,,,450,1350,540,29%
+S0066,17-Mar-2026,C058,P014,Brass Bell,Brass & Copper,1,260,0,UPI,260,,,,155,155,105,40%
+S0169,20-Mar-2026,C046,P016,Copper Panchapatra,Brass & Copper,5,420,0,Card,2100,,,,270,1350,750,36%
+S0069,21-Mar-2026,C002,P008,Pure Cotton Dhotra,Textiles,4,700,0,UPI,2800,,,,450,1800,1000,36%
+S0147,22-Mar-2026,C001,P008,Pure Cotton Dhotra,Textiles,1,700,0,Cash,700,,,,450,450,250,36%
+S0021,23-Mar-2026,C039,P014,Brass Bell,Brass & Copper,2,260,5,UPI,494,,,,155,310,184,37%
+S0167,23-Mar-2026,C006,P010,German Silver Return Gift Set,German Silver,2,550,10,UPI,990,,,,340,680,310,31%
+S0014,25-Mar-2026,C044,P015,Oil Lamp Wick Pack,Pooja Samagri,2,20,10,Cash,36,,,,9,18,18,50%
+S0086,28-Mar-2026,C006,P003,Pooja Thali,Pooja Samagri,1,350,10,UPI,315,,,,210,210,105,33%
+S0083,31-Mar-2026,C054,P020,Silver-Plated Plate,German Silver,2,480,5,Card,912,,,,290,580,332,36%
+S0025,02-Apr-2026,C033,P017,Rudraksha Mala,Pooja Samagri,5,150,0,Card,750,,,,85,425,325,43%
+S0070,02-Apr-2026,C056,P011,Lungi,Textiles,4,320,5,Card,1216,,,,190,760,456,38%
+S0041,09-Apr-2026,C012,P007,Reshmi Madi,Textiles,2,950,0,UPI,1900,,,,620,1240,660,35%
+S0134,09-Apr-2026,C012,P011,Lungi,Textiles,1,320,10,Card,288,,,,190,190,98,34%
+S0135,09-Apr-2026,C038,P007,Reshmi Madi,Textiles,3,950,0,Card,2850,,,,620,1860,990,35%
+S0080,11-Apr-2026,C021,P012,Premium Saree,Textiles,2,1800,0,Card,3600,,,,1250,2500,1100,31%
+S0004,12-Apr-2026,C018,P018,Decorative Toran,Pooja Samagri,2,190,5,Card,361,,,,105,210,151,42%
+S0026,12-Apr-2026,C050,P005,Kumkum Pack,Pooja Samagri,2,25,0,Card,50,,,,12,24,26,52%
+S0151,12-Apr-2026,C010,P014,Brass Bell,Brass & Copper,1,260,0,Card,260,,,,155,155,105,40%
+S0113,13-Apr-2026,C031,P001,Brass Diya,Brass & Copper,3,180,0,Cash,540,,,,110,330,210,39%
+S0061,18-Apr-2026,C032,P011,Lungi,Textiles,1,320,0,Card,320,,,,190,190,130,41%
+S0017,19-Apr-2026,C017,P016,Copper Panchapatra,Brass & Copper,2,420,5,Cash,798,,,,270,540,258,32%
+S0031,19-Apr-2026,C020,P018,Decorative Toran,Pooja Samagri,3,190,0,Card,570,,,,105,315,255,45%
+S0006,21-Apr-2026,C023,P011,Lungi,Textiles,1,320,5,Cash,304,,,,190,190,114,38%
+S0104,23-Apr-2026,C002,P016,Copper Panchapatra,Brass & Copper,1,420,5,UPI,399,,,,270,270,129,32%
+S0112,25-Apr-2026,C016,P003,Pooja Thali,Pooja Samagri,4,350,0,Cash,1400,,,,210,840,560,40%
+S0144,26-Apr-2026,C056,P017,Rudraksha Mala,Pooja Samagri,2,150,5,UPI,285,,,,85,170,115,40%
+S0168,26-Apr-2026,C054,P004,Agarbatti Pack,Pooja Samagri,2,35,0,Card,70,,,,18,36,34,49%
+S0073,27-Apr-2026,C022,P008,Pure Cotton Dhotra,Textiles,1,700,0,UPI,700,,,,450,450,250,36%
+S0137,27-Apr-2026,C035,P012,Premium Saree,Textiles,1,1800,0,Card,1800,,,,1250,1250,550,31%
+S0034,28-Apr-2026,C041,P019,Cotton Towel,Textiles,1,140,0,Card,140,,,,80,80,60,43%
+S0099,29-Apr-2026,C027,P013,Camphor Box,Pooja Samagri,3,60,0,Cash,180,,,,32,96,84,47%
+S0149,29-Apr-2026,C044,P010,German Silver Return Gift Set,German Silver,3,550,5,Cash,1567.5,,,,340,1020,547.5,35%
+S0011,30-Apr-2026,C054,P004,Agarbatti Pack,Pooja Samagri,2,35,5,Card,66.5,,,,18,36,30.5,46%
+S0150,30-Apr-2026,C052,P009,German Silver Bowl,German Silver,4,220,10,Card,792,,,,130,520,272,34%
+S0177,30-Apr-2026,C059,P014,Brass Bell,Brass & Copper,1,260,5,Card,247,,,,155,155,92,37%
+S0051,01-May-2026,C038,P013,Camphor Box,Pooja Samagri,1,60,10,Cash,54,,,,32,32,22,41%
+S0087,01-May-2026,C002,P010,German Silver Return Gift Set,German Silver,1,550,0,Cash,550,,,,340,340,210,38%
+S0044,02-May-2026,C056,P006,Cotton Pancha,Textiles,2,280,5,Cash,532,,,,170,340,192,36%
+S0097,03-May-2026,C018,P009,German Silver Bowl,German Silver,2,220,0,Cash,440,,,,130,260,180,41%
+S0090,05-May-2026,C050,P005,Kumkum Pack,Pooja Samagri,3,25,0,Cash,75,,,,12,36,39,52%
+S0118,05-May-2026,C039,P004,Agarbatti Pack,Pooja Samagri,3,35,0,Card,105,,,,18,54,51,49%
+S0124,06-May-2026,C049,P003,Pooja Thali,Pooja Samagri,1,350,5,Cash,332.5,,,,210,210,122.5,37%
+S0033,07-May-2026,C036,P008,Pure Cotton Dhotra,Textiles,1,700,0,Card,700,,,,450,450,250,36%
+S0096,07-May-2026,C041,P009,German Silver Bowl,German Silver,3,220,10,UPI,594,,,,130,390,204,34%
+S0071,08-May-2026,C056,P009,German Silver Bowl,German Silver,1,220,0,UPI,220,,,,130,130,90,41%
+S0143,08-May-2026,C039,P004,Agarbatti Pack,Pooja Samagri,2,35,5,Card,66.5,,,,18,36,30.5,46%
+S0062,09-May-2026,C003,P002,Copper Kalash,Brass & Copper,1,650,5,UPI,617.5,,,,420,420,197.5,32%
+S0127,13-May-2026,C057,P011,Lungi,Textiles,1,320,10,Card,288,,,,190,190,98,34%
+S0152,17-May-2026,C039,P005,Kumkum Pack,Pooja Samagri,1,25,0,UPI,25,,,,12,12,13,52%
+S0165,17-May-2026,C057,P018,Decorative Toran,Pooja Samagri,1,190,0,UPI,190,,,,105,105,85,45%
+S0016,18-May-2026,C021,P003,Pooja Thali,Pooja Samagri,1,350,10,Card,315,,,,210,210,105,33%
+S0157,18-May-2026,C034,P019,Cotton Towel,Textiles,1,140,0,UPI,140,,,,80,80,60,43%
+S0170,20-May-2026,C030,P014,Brass Bell,Brass & Copper,4,260,5,Cash,988,,,,155,620,368,37%
+S0128,22-May-2026,C016,P018,Decorative Toran,Pooja Samagri,1,190,0,Cash,190,,,,105,105,85,45%
+S0042,23-May-2026,C052,P015,Oil Lamp Wick Pack,Pooja Samagri,1,20,0,UPI,20,,,,9,9,11,55%
+S0074,23-May-2026,C042,P003,Pooja Thali,Pooja Samagri,6,350,0,UPI,2100,,,,210,1260,840,40%
+S0009,31-May-2026,C013,P020,Silver-Plated Plate,German Silver,5,480,0,Card,2400,,,,290,1450,950,40%
+S0082,01-Jun-2026,C025,P018,Decorative Toran,Pooja Samagri,1,190,5,Card,180.5,,,,105,105,75.5,42%
+S0053,11-Jun-2026,C017,P009,German Silver Bowl,German Silver,1,220,0,Cash,220,,,,130,130,90,41%
+S0085,14-Jun-2026,C031,P015,Oil Lamp Wick Pack,Pooja Samagri,2,20,0,Card,40,,,,9,18,22,55%
+S0162,15-Jun-2026,C053,P004,Agarbatti Pack,Pooja Samagri,6,35,5,Card,199.5,,,,18,108,91.5,46%
+S0015,16-Jun-2026,C026,P002,Copper Kalash,Brass & Copper,1,650,0,UPI,650,,,,420,420,230,35%
+S0098,21-Jun-2026,C010,P011,Lungi,Textiles,5,320,0,Cash,1600,,,,190,950,650,41%
+S0007,26-Jun-2026,C030,P020,Silver-Plated Plate,German Silver,1,480,0,Card,480,,,,290,290,190,40%
+S0068,01-Jul-2026,C048,P018,Decorative Toran,Pooja Samagri,5,190,5,Card,902.5,,,,105,525,377.5,42%
+S0028,05-Jul-2026,C006,P010,German Silver Return Gift Set,German Silver,1,550,0,Card,550,,,,340,340,210,38%
+S0164,05-Jul-2026,C014,P020,Silver-Plated Plate,German Silver,3,480,5,Cash,1368,,,,290,870,498,36%
+S0012,06-Jul-2026,C018,P006,Cotton Pancha,Textiles,2,280,0,Card,560,,,,170,340,220,39%
+S0115,08-Jul-2026,C020,P006,Cotton Pancha,Textiles,3,280,0,Cash,840,,,,170,510,330,39%
+S0120,09-Jul-2026,C055,P003,Pooja Thali,Pooja Samagri,2,350,0,Cash,700,,,,210,420,280,40%
+S0117,12-Jul-2026,C038,P013,Camphor Box,Pooja Samagri,5,60,0,Cash,300,,,,32,160,140,47%
+S0109,14-Jul-2026,C049,P011,Lungi,Textiles,1,320,0,UPI,320,,,,190,190,130,41%
+S0110,14-Jul-2026,C054,P009,German Silver Bowl,German Silver,3,220,5,UPI,627,,,,130,390,237,38%
+S0178,15-Jul-2026,C003,P013,Camphor Box,Pooja Samagri,6,60,0,UPI,360,,,,32,192,168,47%
+S0103,19-Jul-2026,C058,P014,Brass Bell,Brass & Copper,2,260,10,Card,468,,,,155,310,158,34%
+S0105,19-Jul-2026,C011,P011,Lungi,Textiles,3,320,5,Card,912,,,,190,570,342,38%
+S0107,21-Jul-2026,C042,P019,Cotton Towel,Textiles,2,140,0,Cash,280,,,,80,160,120,43%
+S0054,22-Jul-2026,C021,P005,Kumkum Pack,Pooja Samagri,3,25,0,UPI,75,,,,12,36,39,52%
+S0032,24-Jul-2026,C008,P012,Premium Saree,Textiles,2,1800,10,UPI,3240,,,,1250,2500,740,23%
+S0045,25-Jul-2026,C017,P002,Copper Kalash,Brass & Copper,1,650,0,UPI,650,,,,420,420,230,35%
+S0161,25-Jul-2026,C017,P018,Decorative Toran,Pooja Samagri,1,190,0,UPI,190,,,,105,105,85,45%
+S0154,26-Jul-2026,C006,P009,German Silver Bowl,German Silver,2,220,5,UPI,418,,,,130,260,158,38%
+S0131,27-Jul-2026,C031,P008,Pure Cotton Dhotra,Textiles,1,700,10,UPI,630,,,,450,450,180,29%
+S0038,28-Jul-2026,C028,P007,Reshmi Madi,Textiles,1,950,5,UPI,902.5,,,,620,620,282.5,31%
+S0100,28-Jul-2026,C014,P011,Lungi,Textiles,2,320,5,Cash,608,,,,190,380,228,38%
+S0129,28-Jul-2026,C031,P016,Copper Panchapatra,Brass & Copper,2,420,0,Card,840,,,,270,540,300,36%
+S0148,29-Jul-2026,C003,P015,Oil Lamp Wick Pack,Pooja Samagri,3,20,5,UPI,57,,,,9,27,30,53%
+S0039,30-Jul-2026,C042,P015,Oil Lamp Wick Pack,Pooja Samagri,4,20,0,Card,80,,,,9,36,44,55%
+S0089,01-Aug-2026,C026,P019,Cotton Towel,Textiles,1,140,5,UPI,133,,,,80,80,53,40%
+S0101,04-Aug-2026,C002,P013,Camphor Box,Pooja Samagri,5,60,10,Card,270,,,,32,160,110,41%
+S0121,04-Aug-2026,C058,P016,Copper Panchapatra,Brass & Copper,1,420,0,Card,420,,,,270,270,150,36%
+S0091,06-Aug-2026,C004,P008,Pure Cotton Dhotra,Textiles,1,700,10,UPI,630,,,,450,450,180,29%
+S0108,08-Aug-2026,C017,P005,Kumkum Pack,Pooja Samagri,4,25,0,Cash,100,,,,12,48,52,52%
+S0024,11-Aug-2026,C049,P006,Cotton Pancha,Textiles,2,280,0,Card,560,,,,170,340,220,39%
+S0077,11-Aug-2026,C039,P012,Premium Saree,Textiles,3,1800,0,UPI,5400,,,,1250,3750,1650,31%
+S0180,14-Aug-2026,C047,P004,Agarbatti Pack,Pooja Samagri,2,35,5,Cash,66.5,,,,18,36,30.5,46%
+S0064,15-Aug-2026,C008,P018,Decorative Toran,Pooja Samagri,3,190,10,Cash,513,,,,105,315,198,39%
+S0094,15-Aug-2026,C054,P020,Silver-Plated Plate,German Silver,4,480,10,UPI,1728,,,,290,1160,568,33%
+S0158,15-Aug-2026,C041,P009,German Silver Bowl,German Silver,1,220,10,UPI,198,,,,130,130,68,34%
+S0046,21-Aug-2026,C046,P010,German Silver Return Gift Set,German Silver,2,550,10,Card,990,,,,340,680,310,31%
+S0133,21-Aug-2026,C047,P009,German Silver Bowl,German Silver,1,220,0,Cash,220,,,,130,130,90,41%
+S0176,22-Aug-2026,C025,P011,Lungi,Textiles,4,320,0,Card,1280,,,,190,760,520,41%
+S0122,24-Aug-2026,C018,P005,Kumkum Pack,Pooja Samagri,2,25,10,Card,45,,,,12,24,21,47%
+S0093,26-Aug-2026,C049,P017,Rudraksha Mala,Pooja Samagri,6,150,10,UPI,810,,,,85,510,300,37%
+S0125,26-Aug-2026,C002,P019,Cotton Towel,Textiles,3,140,5,UPI,399,,,,80,240,159,40%
+S0022,28-Aug-2026,C044,P017,Rudraksha Mala,Pooja Samagri,1,150,10,Cash,135,,,,85,85,50,37%
+S0106,28-Aug-2026,C059,P005,Kumkum Pack,Pooja Samagri,6,25,10,Cash,135,,,,12,72,63,47%
+S0140,29-Aug-2026,C017,P016,Copper Panchapatra,Brass & Copper,2,420,0,Cash,840,,,,270,540,300,36%
+S0030,01-Sep-2026,C028,P018,Decorative Toran,Pooja Samagri,1,190,10,Card,171,,,,105,105,66,39%
+S0049,02-Sep-2026,C004,P017,Rudraksha Mala,Pooja Samagri,5,150,10,Cash,675,,,,85,425,250,37%
+S0141,02-Sep-2026,C005,P004,Agarbatti Pack,Pooja Samagri,4,35,5,UPI,133,,,,18,72,61,46%
+S0166,06-Sep-2026,C046,P004,Agarbatti Pack,Pooja Samagri,1,35,10,Cash,31.5,,,,18,18,13.5,43%
+S0047,07-Sep-2026,C038,P005,Kumkum Pack,Pooja Samagri,1,25,0,Cash,25,,,,12,12,13,52%
+S0130,09-Sep-2026,C015,P015,Oil Lamp Wick Pack,Pooja Samagri,4,20,0,UPI,80,,,,9,36,44,55%
+S0159,09-Sep-2026,C021,P003,Pooja Thali,Pooja Samagri,2,350,5,UPI,665,,,,210,420,245,37%
+S0126,11-Sep-2026,C052,P011,Lungi,Textiles,1,320,0,UPI,320,,,,190,190,130,41%
+S0173,17-Sep-2026,C020,P009,German Silver Bowl,German Silver,4,220,0,Card,880,,,,130,520,360,41%
+S0050,18-Sep-2026,C005,P003,Pooja Thali,Pooja Samagri,4,350,0,Card,1400,,,,210,840,560,40%
+S0075,18-Sep-2026,C002,P013,Camphor Box,Pooja Samagri,3,60,10,UPI,162,,,,32,96,66,41%
+S0078,19-Sep-2026,C017,P004,Agarbatti Pack,Pooja Samagri,2,35,10,Cash,63,,,,18,36,27,43%
+S0036,21-Sep-2026,C035,P008,Pure Cotton Dhotra,Textiles,1,700,5,Cash,665,,,,450,450,215,32%
+S0136,26-Sep-2026,C019,P020,Silver-Plated Plate,German Silver,1,480,0,Cash,480,,,,290,290,190,40%
+S0027,29-Sep-2026,C008,P001,Brass Diya,Brass & Copper,2,180,5,Cash,342,,,,110,220,122,36%
+S0008,02-Oct-2026,C036,P004,Agarbatti Pack,Pooja Samagri,6,35,5,Cash,199.5,,,,18,108,91.5,46%
+S0056,03-Oct-2026,C057,P007,Reshmi Madi,Textiles,2,950,0,UPI,1900,,,,620,1240,660,35%
+S0123,03-Oct-2026,C021,P016,Copper Panchapatra,Brass & Copper,2,420,10,UPI,756,,,,270,540,216,29%
+S0175,03-Oct-2026,C025,P016,Copper Panchapatra,Brass & Copper,1,420,10,Card,378,,,,270,270,108,29%
+S0048,05-Oct-2026,C038,P002,Copper Kalash,Brass & Copper,3,650,0,Cash,1950,,,,420,1260,690,35%
+S0058,06-Oct-2026,C043,P010,German Silver Return Gift Set,German Silver,3,550,10,Cash,1485,,,,340,1020,465,31%
+S0095,08-Oct-2026,C017,P015,Oil Lamp Wick Pack,Pooja Samagri,5,20,5,UPI,95,,,,9,45,50,53%
+S0043,09-Oct-2026,C006,P004,Agarbatti Pack,Pooja Samagri,1,35,10,Cash,31.5,,,,18,18,13.5,43%
+S0171,10-Oct-2026,C048,P005,Kumkum Pack,Pooja Samagri,2,25,10,Card,45,,,,12,24,21,47%
+S0059,11-Oct-2026,C017,P010,German Silver Return Gift Set,German Silver,5,550,0,Cash,2750,,,,340,1700,1050,38%
+S0132,11-Oct-2026,C023,P017,Rudraksha Mala,Pooja Samagri,1,150,10,UPI,135,,,,85,85,50,37%
+S0092,13-Oct-2026,C009,P008,Pure Cotton Dhotra,Textiles,5,700,0,UPI,3500,,,,450,2250,1250,36%
+S0153,19-Oct-2026,C020,P010,German Silver Return Gift Set,German Silver,2,550,5,Card,1045,,,,340,680,365,35%
+S0102,22-Oct-2026,C049,P013,Camphor Box,Pooja Samagri,2,60,0,UPI,120,,,,32,64,56,47%
+S0142,23-Oct-2026,C006,P002,Copper Kalash,Brass & Copper,1,650,10,UPI,585,,,,420,420,165,28%
+S0019,27-Oct-2026,C015,P014,Brass Bell,Brass & Copper,5,260,5,UPI,1235,,,,155,775,460,37%
+S0174,28-Oct-2026,C029,P019,Cotton Towel,Textiles,6,140,5,Cash,798,,,,80,480,318,40%
+S0145,29-Oct-2026,C040,P014,Brass Bell,Brass & Copper,1,260,10,Cash,234,,,,155,155,79,34%

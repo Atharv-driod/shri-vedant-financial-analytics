@@ -1,0 +1,71 @@
+﻿PO Number,Purchase Date,Vendor ID,Vendor Name,Product ID,Product Name,Quantity Purchased,Unit Cost (₹),Payment Status,Purchase Value (₹)
+PO0046,14-Jan-2026,V003,Mahalaxmi Metals,P005,Kumkum Pack,5,12,Paid,60
+PO0052,16-Jan-2026,V004,Pooja Distributors,P002,Copper Kalash,35,420,Pending,14700
+PO0022,18-Jan-2026,V002,Kaveri Textiles,P019,Cotton Towel,28,80,Paid,2240
+PO0004,19-Jan-2026,V002,Kaveri Textiles,P020,Silver-Plated Plate,9,290,Partially Paid,2610
+PO0051,23-Jan-2026,V004,Pooja Distributors,P017,Rudraksha Mala,24,85,Partially Paid,2040
+PO0007,24-Jan-2026,V003,Mahalaxmi Metals,P011,Lungi,8,190,Pending,1520
+PO0033,24-Jan-2026,V004,Pooja Distributors,P002,Copper Kalash,24,420,Paid,10080
+PO0019,26-Jan-2026,V003,Mahalaxmi Metals,P020,Silver-Plated Plate,36,290,Paid,10440
+PO0048,27-Jan-2026,V005,Sri Ganesh Suppliers,P005,Kumkum Pack,31,12,Paid,372
+PO0049,02-Feb-2026,V003,Mahalaxmi Metals,P016,Copper Panchapatra,33,270,Partially Paid,8910
+PO0010,10-Feb-2026,V005,Sri Ganesh Suppliers,P020,Silver-Plated Plate,29,290,Partially Paid,8410
+PO0062,16-Feb-2026,V004,Pooja Distributors,P003,Pooja Thali,10,210,Paid,2100
+PO0060,18-Feb-2026,V003,Mahalaxmi Metals,P011,Lungi,32,190,Partially Paid,6080
+PO0034,19-Feb-2026,V002,Kaveri Textiles,P008,Pure Cotton Dhotra,39,450,Pending,17550
+PO0006,21-Feb-2026,V003,Mahalaxmi Metals,P015,Oil Lamp Wick Pack,15,9,Paid,135
+PO0053,25-Feb-2026,V001,Shree Traders,P016,Copper Panchapatra,33,270,Paid,8910
+PO0045,08-Mar-2026,V002,Kaveri Textiles,P018,Decorative Toran,21,105,Paid,2205
+PO0024,09-Mar-2026,V005,Sri Ganesh Suppliers,P018,Decorative Toran,28,105,Partially Paid,2940
+PO0021,12-Mar-2026,V003,Mahalaxmi Metals,P004,Agarbatti Pack,7,18,Pending,126
+PO0001,15-Mar-2026,V001,Shree Traders,P014,Brass Bell,14,155,Pending,2170
+PO0044,17-Mar-2026,V003,Mahalaxmi Metals,P020,Silver-Plated Plate,5,290,Paid,1450
+PO0036,21-Mar-2026,V004,Pooja Distributors,P014,Brass Bell,11,155,Partially Paid,1705
+PO0043,17-Apr-2026,V002,Kaveri Textiles,P019,Cotton Towel,18,80,Pending,1440
+PO0041,19-Apr-2026,V001,Shree Traders,P020,Silver-Plated Plate,6,290,Pending,1740
+PO0067,19-Apr-2026,V002,Kaveri Textiles,P005,Kumkum Pack,35,12,Paid,420
+PO0058,21-Apr-2026,V002,Kaveri Textiles,P014,Brass Bell,33,155,Pending,5115
+PO0027,26-Apr-2026,V003,Mahalaxmi Metals,P013,Camphor Box,40,32,Paid,1280
+PO0011,04-May-2026,V002,Kaveri Textiles,P016,Copper Panchapatra,14,270,Pending,3780
+PO0042,05-May-2026,V001,Shree Traders,P005,Kumkum Pack,18,12,Partially Paid,216
+PO0015,09-May-2026,V002,Kaveri Textiles,P015,Oil Lamp Wick Pack,24,9,Pending,216
+PO0012,11-May-2026,V001,Shree Traders,P015,Oil Lamp Wick Pack,21,9,Pending,189
+PO0061,11-May-2026,V004,Pooja Distributors,P012,Premium Saree,14,1250,Paid,17500
+PO0002,16-May-2026,V001,Shree Traders,P011,Lungi,30,190,Pending,5700
+PO0025,20-May-2026,V004,Pooja Distributors,P006,Cotton Pancha,21,170,Pending,3570
+PO0055,21-May-2026,V003,Mahalaxmi Metals,P020,Silver-Plated Plate,40,290,Pending,11600
+PO0040,22-May-2026,V004,Pooja Distributors,P007,Reshmi Madi,12,620,Paid,7440
+PO0005,28-May-2026,V004,Pooja Distributors,P008,Pure Cotton Dhotra,10,450,Paid,4500
+PO0013,28-May-2026,V001,Shree Traders,P018,Decorative Toran,15,105,Pending,1575
+PO0023,01-Jun-2026,V002,Kaveri Textiles,P011,Lungi,31,190,Paid,5890
+PO0066,09-Jun-2026,V005,Sri Ganesh Suppliers,P012,Premium Saree,11,1250,Partially Paid,13750
+PO0054,14-Jun-2026,V001,Shree Traders,P020,Silver-Plated Plate,14,290,Paid,4060
+PO0026,23-Jun-2026,V001,Shree Traders,P004,Agarbatti Pack,34,18,Paid,612
+PO0059,23-Jun-2026,V004,Pooja Distributors,P015,Oil Lamp Wick Pack,30,9,Partially Paid,270
+PO0014,26-Jun-2026,V004,Pooja Distributors,P019,Cotton Towel,24,80,Partially Paid,1920
+PO0068,29-Jun-2026,V001,Shree Traders,P018,Decorative Toran,28,105,Pending,2940
+PO0020,30-Jun-2026,V005,Sri Ganesh Suppliers,P008,Pure Cotton Dhotra,17,450,Pending,7650
+PO0065,01-Jul-2026,V003,Mahalaxmi Metals,P014,Brass Bell,8,155,Partially Paid,1240
+PO0017,03-Jul-2026,V003,Mahalaxmi Metals,P019,Cotton Towel,23,80,Paid,1840
+PO0039,08-Jul-2026,V001,Shree Traders,P018,Decorative Toran,27,105,Pending,2835
+PO0030,10-Jul-2026,V004,Pooja Distributors,P004,Agarbatti Pack,19,18,Paid,342
+PO0063,10-Jul-2026,V001,Shree Traders,P005,Kumkum Pack,40,12,Partially Paid,480
+PO0008,11-Jul-2026,V002,Kaveri Textiles,P014,Brass Bell,14,155,Partially Paid,2170
+PO0018,22-Jul-2026,V005,Sri Ganesh Suppliers,P009,German Silver Bowl,5,130,Partially Paid,650
+PO0028,22-Jul-2026,V005,Sri Ganesh Suppliers,P001,Brass Diya,21,110,Paid,2310
+PO0037,28-Jul-2026,V003,Mahalaxmi Metals,P009,German Silver Bowl,7,130,Paid,910
+PO0009,30-Jul-2026,V002,Kaveri Textiles,P019,Cotton Towel,16,80,Paid,1280
+PO0057,09-Aug-2026,V005,Sri Ganesh Suppliers,P004,Agarbatti Pack,12,18,Partially Paid,216
+PO0038,16-Aug-2026,V003,Mahalaxmi Metals,P015,Oil Lamp Wick Pack,20,9,Paid,180
+PO0029,21-Aug-2026,V005,Sri Ganesh Suppliers,P012,Premium Saree,21,1250,Pending,26250
+PO0035,21-Aug-2026,V004,Pooja Distributors,P012,Premium Saree,39,1250,Partially Paid,48750
+PO0032,26-Aug-2026,V001,Shree Traders,P010,German Silver Return Gift Set,31,340,Paid,10540
+PO0016,05-Sep-2026,V004,Pooja Distributors,P004,Agarbatti Pack,20,18,Partially Paid,360
+PO0056,29-Sep-2026,V005,Sri Ganesh Suppliers,P010,German Silver Return Gift Set,34,340,Partially Paid,11560
+PO0003,01-Oct-2026,V004,Pooja Distributors,P013,Camphor Box,25,32,Partially Paid,800
+PO0070,13-Oct-2026,V001,Shree Traders,P001,Brass Diya,22,110,Paid,2420
+PO0031,15-Oct-2026,V001,Shree Traders,P011,Lungi,19,190,Partially Paid,3610
+PO0064,15-Oct-2026,V001,Shree Traders,P018,Decorative Toran,26,105,Pending,2730
+PO0069,21-Oct-2026,V005,Sri Ganesh Suppliers,P008,Pure Cotton Dhotra,32,450,Partially Paid,14400
+PO0047,29-Oct-2026,V002,Kaveri Textiles,P011,Lungi,6,190,Pending,1140
+PO0050,31-Oct-2026,V005,Sri Ganesh Suppliers,P004,Agarbatti Pack,33,18,Paid,594
