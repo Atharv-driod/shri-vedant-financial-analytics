@@ -75,13 +75,84 @@
       </article>
     </section>
 
+    <section class="sql-portfolio">
+      <div class="section-intro">
+        <p class="eyebrow">DATABASE ANALYSIS</p>
+        <h2>MySQL Analysis &amp; Project Results</h2>
+        <p>The retail dataset was also loaded into a relational MySQL database and analysed using SQL. These headline results were checked against the Excel analysis.</p>
+      </div>
+
+      <div class="sql-kpis">
+        <article><span>Sales transactions</span><strong>180</strong></article>
+        <article><span>Units sold</span><strong>432</strong></article>
+        <article><span>Revenue</span><strong>₹1,33,537</strong></article>
+        <article><span>COGS</span><strong>₹86,398</strong></article>
+        <article><span>Gross profit</span><strong>₹47,139</strong></article>
+        <article><span>Gross margin</span><strong>35.30%</strong></article>
+      </div>
+
+      <div class="sql-monthly">
+        <h3>Monthly Revenue — SQL result</h3>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Month</th><th>Revenue</th></tr></thead>
+            <tbody>
+              <tr><td>January</td><td>₹10,749.50</td></tr>
+              <tr><td>February</td><td>₹18,056.50</td></tr>
+              <tr><td>March</td><td>₹14,879.50</td></tr>
+              <tr><td>April</td><td>₹21,454.00</td></tr>
+              <tr><td>May</td><td>₹10,942.50</td></tr>
+              <tr><td>June</td><td>₹3,370.00</td></tr>
+              <tr><td>July</td><td>₹15,878.00</td></tr>
+              <tr><td>August</td><td>₹14,872.50</td></tr>
+              <tr><td>September</td><td>₹6,092.50</td></tr>
+              <tr><td>October</td><td>₹17,242.00</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="sql-insights">
+        <h3>Key Business Observations</h3>
+        <ul>
+          <li>April recorded the highest monthly revenue at ₹21,454.</li>
+          <li>June recorded the lowest monthly revenue at ₹3,370.</li>
+          <li>Gross profit was ₹47,139, compared with recorded expenses of ₹85,250.</li>
+          <li>The simplified operating result was -₹38,111.</li>
+          <li>Inventory value in the product master was ₹3,59,080.</li>
+        </ul>
+      </div>
+
+      <div class="sql-techniques">
+        <h3>SQL Concepts Demonstrated</h3>
+        <p>SELECT, WHERE, ORDER BY, aggregate functions, GROUP BY, INNER JOIN, LEFT JOIN, subqueries, Common Table Expressions (CTEs), RANK() and window functions.</p>
+      </div>
+
+      <div class="sql-downloads">
+        <h3>SQL Scripts &amp; Documentation</h3>
+        <p>These links assume the SQL scripts and documentation are stored in the repository root alongside this HTML file.</p>
+        <div class="sql-links">
+          <a href="01_Database_Setup.sql" target="_blank" rel="noopener">01 Database Setup</a>
+          <a href="02_Data_Validation.sql" target="_blank" rel="noopener">02 Data Validation</a>
+          <a href="03_Revenue_Analysis.sql" target="_blank" rel="noopener">03 Revenue Analysis</a>
+          <a href="04_Product_Analysis.sql" target="_blank" rel="noopener">04 Product Analysis</a>
+          <a href="05_Expense_Vendor_Analysis.sql" target="_blank" rel="noopener">05 Expense &amp; Vendor Analysis</a>
+          <a href="06_Inventory_Payment_Analysis.sql" target="_blank" rel="noopener">06 Inventory &amp; Payment Analysis</a>
+          <a href="07_Advanced_SQL.sql" target="_blank" rel="noopener">07 Advanced SQL</a>
+          <a href="08_Final_Business_Summary.sql" target="_blank" rel="noopener">08 Final Business Summary</a>
+          <a href="README_SQL.md" target="_blank" rel="noopener">SQL Documentation</a>
+        </div>
+      </div>
+      <p class="sql-caveat">The operating result is a simplified project calculation, not audited or statutory profit. It is calculated as gross profit less expenses recorded in the supplied dataset.</p>
+    </section>
+
     <section class="method-note">
-      <h2>Definitions & interpretation</h2>
-      <p><b>Gross profit</b> = sales revenue − cost of goods sold (COGS). <b>Operating profit</b> in this project is calculated as gross profit − expenses recorded in the EXPENSES file. It is a simplified operating result based on the supplied dataset, not audited statutory profit.</p>
-      <p><b>Inventory value</b> is taken from the PRODUCTS file. Inventory and vendor/purchase metrics are current dataset summaries and are not changed by the sales-month filter. Monthly expense comparisons use the expense dates in the supplied file.</p>
+      <h2>Definitions &amp; Interpretation</h2>
+      <p><b>Gross profit</b> = sales revenue − cost of goods sold (COGS). <b>Operating profit</b> in this project is calculated as gross profit − expenses recorded in the EXPENSES file. It is a simplified operating result based on the supplied dataset, not an audited statutory profit figure.</p>
+      <p><b>Inventory value</b> is taken from the PRODUCTS file. Inventory and vendor/purchase metrics are current dataset summaries and are not changed by the reporting-month filter.</p>
       <p id="dataQuality"></p>
     </section>
-    <footer>Built from the supplied Excel-exported CSV datasets • Shri Vedant Pooja Bhandar • 2026</footer>
+    <footer>Built from the supplied Excel-exported CSV datasets and MySQL analysis • Shri Vedant Pooja Bhandar • 2026</footer>
   </main>
   <script src="app.js"></script>
 </body>
