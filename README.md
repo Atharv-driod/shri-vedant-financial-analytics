@@ -2,6 +2,7 @@
 ## Retail Financial Analytics Dashboard
 
 An end-to-end retail analytics portfolio project that transforms sales, product, purchase, vendor and expense records into financial KPIs and actionable business observations.
+Dataset disclosure: This is a self-initiated learning case study built using a simulated retail practice dataset. All financial figures and transactions are simulated and must not be presented as actual shop performance, audited results or statutory accounts.
 
 **🚀 Live Dashboard:** https://atharv-driod.github.io/shri-vedant-financial-analytics/
 
